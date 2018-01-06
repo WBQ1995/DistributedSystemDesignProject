@@ -1,0 +1,24 @@
+module FEAPP{
+
+	typedef sequence<string> ArrayString;
+	typedef sequence<boolean> ArrayBoolean;	
+	
+	
+	interface FE{
+
+		boolean Login(in string id);
+	
+		ArrayBoolean createRoom(in string id, in string room_Number, in string date, in ArrayString Time_Slots) ;
+	
+		ArrayBoolean deleteRoom(in string id, in string room_Number, in string date, in ArrayString Time_Slots) ;
+
+		string bookRoom(in string id, in string campusName, in string room_Number, in string date, in string Time_Slots) ;
+
+		string getAvailableTimeSlot(in string id, in string date) ;
+	
+		boolean cancelBooking(in string id, in string bookingID) ;
+		
+		string changeReservation(in string id, in string bookingID, in string campusName, in string room_Number, in string Time_Slots) ;
+
+	};
+};
