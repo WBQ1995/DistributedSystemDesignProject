@@ -1,0 +1,847 @@
+2017-11-25 15:27:54 StudentClient WSTS log in
+2017-11-25 15:28:20 StudentClient WSTS log in
+2017-11-25 15:29:07 StudentClient WSTS log in
+2017-11-25 15:31:01 StudentClient WSTS1111 log in
+2017-11-25 15:31:01StudentClient WSTS1111 book a room failed
+2017-11-25 15:32:00 StudentClient WSTS1111 log in
+2017-11-25 15:33:04 StudentClient WSTS1111 log in
+2017-11-25 15:36:21 StudentClient WSTS1111 log in
+2017-11-25 15:37:27 StudentClient WSTS1111 log in
+2017-11-25 15:38:04 StudentClient WSTS1111 log in
+2017-11-25 15:41:48 StudentClient WSTS1111 log in
+2017-11-25 15:43:38 StudentClient WSTS1111 log in
+2017-11-25 15:44:49 StudentClient WSTS1111 log in
+2017-11-25 15:45:10 StudentClient WSTS1111 log in
+2017-11-25 15:47:09 StudentClient WSTS1111 log in
+2017-11-25 15:49:56 StudentClient WSTS1111 log in
+2017-11-25 15:50:45 StudentClient WSTS1111 log in
+2017-11-25 16:03:07 StudentClient WSTS1111 log in
+2017-11-25 16:03:21 StudentClient WSTS1111 log in
+2017-11-25 16:04:15 StudentClient WSTS1111 log in
+2017-11-25 16:05:42 StudentClient WSTS1111 log in
+2017-11-25 16:07:09 StudentClient WSTS1111 log in
+2017-11-25 16:11:09 StudentClient WSTS1111 log in
+2017-11-25 16:16:00 StudentClient WSTS1111 log in
+2017-11-25 16:17:35 StudentClient WSTS1111 log in
+2017-11-25 16:19:29 StudentClient WSTS1111 log in
+2017-11-25 16:20:17 StudentClient WSTS1111 log in
+2017-11-25 16:25:39 StudentClient WSTS1111 log in
+2017-11-25 16:29:35 StudentClient WSTS1111 log in
+2017-11-25 16:30:46 StudentClient WSTS1111 log in
+2017-11-25 16:30:55 StudentClient WSTS1111 log in
+2017-11-25 16:31:44 StudentClient WSTS1111 log in
+2017-11-25 16:33:00 StudentClient WSTS1111 log in
+2017-11-25 16:33:12 StudentClient WSTS1111 log in
+2017-11-25 22:04:06 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-25 22:04:06 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-25 22:04:06 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-25 22:04:06 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-25 22:04:06 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-25 22:04:06 AdminClient WSTA2000 create a room failed
+2017-11-25 22:04:06 AdminClient WSTA2000 create a room failed
+2017-11-25 22:04:06 AdminClient WSTA2000 create a room failed
+2017-11-25 22:04:06 AdminClient WSTA2000 create a room failed
+2017-11-25 22:04:06 AdminClient WSTA2000 create a room failed
+2017-11-25 22:10:51 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-25 22:10:51 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-25 22:10:51 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-25 22:10:51 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-25 22:10:51 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-25 22:44:50 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-25 22:44:50 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-25 22:44:50 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-25 22:44:50 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-25 22:44:50 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-25 22:44:50 AdminClient WSTA2000 create a room failed
+2017-11-25 22:44:50 AdminClient WSTA2000 create a room failed
+2017-11-25 22:44:50 AdminClient WSTA2000 create a room failed
+2017-11-25 22:44:50 AdminClient WSTA2000 create a room failed
+2017-11-25 22:44:50 AdminClient WSTA2000 create a room failed
+2017-11-25 23:02:15 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-25 23:02:15 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-25 23:02:15 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-25 23:02:15 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-25 23:02:15 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-25 23:29:39 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-25 23:29:39 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-25 23:29:39 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-25 23:29:39 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-25 23:29:39 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-25 23:29:40 AdminClient WSTA2000 create a room failed
+2017-11-25 23:29:40 AdminClient WSTA2000 create a room failed
+2017-11-25 23:29:40 AdminClient WSTA2000 create a room failed
+2017-11-25 23:29:40 AdminClient WSTA2000 create a room failed
+2017-11-25 23:29:40 AdminClient WSTA2000 create a room failed
+2017-11-25 23:45:25 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-25 23:45:25 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-25 23:45:25 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-25 23:45:25 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-25 23:45:25 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-25 23:48:05 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-25 23:48:05 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-25 23:48:05 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-25 23:48:05 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-25 23:48:05 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-25 23:48:59 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-25 23:48:59 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-25 23:48:59 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-25 23:48:59 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-25 23:48:59 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-25 23:59:55 AdminClient WSTA2000 create a room failed
+2017-11-25 23:59:55 AdminClient WSTA2000 create a room failed
+2017-11-25 23:59:55 AdminClient WSTA2000 create a room failed
+2017-11-25 23:59:55 AdminClient WSTA2000 create a room failed
+2017-11-25 23:59:55 AdminClient WSTA2000 create a room failed
+2017-11-26 00:07:21 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-26 00:07:21 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-26 00:07:21 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-26 00:07:21 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-26 00:07:21 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-26 00:07:21 AdminClient WSTA2000 create a room failed
+2017-11-26 00:07:21 AdminClient WSTA2000 create a room failed
+2017-11-26 00:07:21 AdminClient WSTA2000 create a room failed
+2017-11-26 00:07:21 AdminClient WSTA2000 create a room failed
+2017-11-26 00:07:21 AdminClient WSTA2000 create a room failed
+2017-11-26 00:07:21 StudentClient WSTS1000 log in
+2017-11-26 00:24:17 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-26 00:24:17 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-26 00:24:17 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-26 00:24:17 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-26 00:24:17 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-26 00:24:17 AdminClient WSTA2000 create a room failed
+2017-11-26 00:24:17 AdminClient WSTA2000 create a room failed
+2017-11-26 00:24:17 AdminClient WSTA2000 create a room failed
+2017-11-26 00:24:17 AdminClient WSTA2000 create a room failed
+2017-11-26 00:24:17 AdminClient WSTA2000 create a room failed
+2017-11-26 00:24:17 StudentClient WSTS1000 log in
+2017-11-26 00:27:59 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-26 00:27:59 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-26 00:27:59 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-26 00:27:59 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-26 00:27:59 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-26 00:27:59 AdminClient WSTA2000 create a room failed
+2017-11-26 00:27:59 AdminClient WSTA2000 create a room failed
+2017-11-26 00:27:59 AdminClient WSTA2000 create a room failed
+2017-11-26 00:27:59 AdminClient WSTA2000 create a room failed
+2017-11-26 00:27:59 AdminClient WSTA2000 create a room failed
+2017-11-26 00:34:19 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-26 00:34:19 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-26 00:34:19 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-26 00:34:19 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-26 00:34:19 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-26 00:34:19 AdminClient WSTA2000 create a room failed
+2017-11-26 00:34:19 AdminClient WSTA2000 create a room failed
+2017-11-26 00:34:19 AdminClient WSTA2000 create a room failed
+2017-11-26 00:34:19 AdminClient WSTA2000 create a room failed
+2017-11-26 00:34:19 AdminClient WSTA2000 create a room failed
+2017-11-26 00:34:19 StudentClient WSTS1000 log in
+2017-11-26 00:36:02 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-26 00:36:02 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-26 00:36:02 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-26 00:36:02 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-26 00:36:02 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-26 00:36:02 AdminClient WSTA2000 create a room failed
+2017-11-26 00:36:02 AdminClient WSTA2000 create a room failed
+2017-11-26 00:36:02 AdminClient WSTA2000 create a room failed
+2017-11-26 00:36:02 AdminClient WSTA2000 create a room failed
+2017-11-26 00:36:02 AdminClient WSTA2000 create a room failed
+2017-11-26 00:36:02 StudentClient WSTS1000 log in
+2017-11-26 20:31:03 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-26 20:31:03 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-26 20:31:03 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-26 20:31:03 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-26 20:31:03 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-26 20:31:03 AdminClient WSTA2000 create a room failed
+2017-11-26 20:31:03 AdminClient WSTA2000 create a room failed
+2017-11-26 20:31:03 AdminClient WSTA2000 create a room failed
+2017-11-26 20:31:03 AdminClient WSTA2000 create a room failed
+2017-11-26 20:31:03 AdminClient WSTA2000 create a room failed
+2017-11-26 20:31:03 StudentClient WSTS1000 log in
+2017-11-26 21:29:17 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-26 21:29:17 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-26 21:29:17 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-26 21:29:17 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-26 21:29:17 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-26 21:29:17 AdminClient WSTA2000 create a room failed
+2017-11-26 21:29:17 AdminClient WSTA2000 create a room failed
+2017-11-26 21:29:17 AdminClient WSTA2000 create a room failed
+2017-11-26 21:29:17 AdminClient WSTA2000 create a room failed
+2017-11-26 21:29:17 AdminClient WSTA2000 create a room failed
+2017-11-26 21:29:17 StudentClient WSTS1000 log in
+2017-11-27 10:26:33 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-27 10:26:33 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-27 10:26:33 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-27 10:26:33 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-27 10:26:33 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-27 10:28:35 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-27 10:28:35 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-27 10:28:35 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-27 10:28:35 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-27 10:28:35 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-27 10:32:38 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-27 10:32:38 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-27 10:32:38 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-27 10:32:38 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-27 10:32:38 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-27 10:32:38 AdminClient WSTA2000 create a room failed
+2017-11-27 10:32:38 AdminClient WSTA2000 create a room failed
+2017-11-27 10:32:38 AdminClient WSTA2000 create a room failed
+2017-11-27 10:32:38 AdminClient WSTA2000 create a room failed
+2017-11-27 10:32:38 AdminClient WSTA2000 create a room failed
+2017-11-27 10:32:38 StudentClient WSTS1000 log in
+2017-11-30 16:15:19 AdminClient DVLA1111 create a room successfully. Room information: 2017-01-01 214 9:00-10:00
+2017-11-30 16:15:19 AdminClient DVLA1111 create a room successfully. Room information: 2017-01-01 214 10:00-11:00
+2017-11-30 16:15:19 StudentClient KKLS log in
+2017-11-30 16:15:19 StudentClient KKLS check on number of available time slots
+2017-11-30 16:15:19 StudentClient KKLS log in
+2017-11-30 16:15:19 StudentClient KKLS book a room successfully.Booking information: DVL 2017-01-01 214 9:00-10:00 WST10233KKLS
+2017-11-30 16:15:19 StudentClient KKLS log in
+2017-11-30 16:15:19 StudentClient KKLS check on number of available time slots
+2017-11-30 16:15:19 StudentClient KKLS cancelBooking successfully. Booking information: WST10233KKLS
+2017-11-30 16:15:19 StudentClient KKLS log in
+2017-11-30 16:15:19 StudentClient KKLS check on number of available time slots
+2017-11-30 16:15:19 AdminClient DVLA1111 delete room successfully
+2017-11-30 16:15:19 StudentClient KKLS log in
+2017-11-30 16:15:19 StudentClient KKLS log in
+2017-11-30 16:15:19 StudentClient KKLS check on number of available time slots
+2017-11-30 16:15:19 StudentClient KKLS log in
+2017-11-30 16:15:19 StudentClient KKLS book a room successfully.Booking information: DVL 2017-01-01 214 10:00-11:00 WST39276KKLS
+2017-11-30 16:15:19 StudentClient KKLS log in
+2017-11-30 16:15:19 StudentClient KKLS check on number of available time slots
+2017-11-30 20:23:21 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-30 20:23:21 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-30 20:23:21 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-30 20:23:21 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-30 20:23:21 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-30 20:23:21 AdminClient WSTA2000 create a room failed
+2017-11-30 20:23:21 AdminClient WSTA2000 create a room failed
+2017-11-30 20:23:21 AdminClient WSTA2000 create a room failed
+2017-11-30 20:23:21 AdminClient WSTA2000 create a room failed
+2017-11-30 20:23:21 AdminClient WSTA2000 create a room failed
+2017-11-30 20:23:21 StudentClient WSTS1000 log in
+2017-11-30 21:34:09 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-11-30 21:34:09 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-11-30 21:34:09 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-11-30 21:34:09 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-11-30 21:34:09 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-11-30 21:34:09 AdminClient WSTA2000 create a room failed
+2017-11-30 21:34:09 AdminClient WSTA2000 create a room failed
+2017-11-30 21:34:09 AdminClient WSTA2000 create a room failed
+2017-11-30 21:34:09 AdminClient WSTA2000 create a room failed
+2017-11-30 21:34:09 AdminClient WSTA2000 create a room failed
+2017-11-30 21:34:09 StudentClient WSTS1000 log in
+2017-12-01 09:41:26 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-12-01 09:41:26 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-12-01 09:41:26 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-12-01 09:41:26 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-12-01 09:41:26 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-12-01 09:41:26 AdminClient WSTA2000 create a room failed
+2017-12-01 09:41:26 AdminClient WSTA2000 create a room failed
+2017-12-01 09:41:26 AdminClient WSTA2000 create a room failed
+2017-12-01 09:41:26 AdminClient WSTA2000 create a room failed
+2017-12-01 09:41:26 AdminClient WSTA2000 create a room failed
+2017-12-01 09:41:26 StudentClient WSTS1000 log in
+2017-12-02 22:53:31 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-12-02 22:53:31 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-12-02 22:53:31 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-12-02 22:53:31 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-12-02 22:53:31 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-12-02 22:55:47 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-12-02 22:55:47 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-12-02 22:55:47 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-12-02 22:55:47 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-12-02 22:55:47 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-12-02 22:55:48 AdminClient WSTA2000 create a room failed
+2017-12-02 22:55:48 AdminClient WSTA2000 create a room failed
+2017-12-02 22:55:48 AdminClient WSTA2000 create a room failed
+2017-12-02 22:55:48 AdminClient WSTA2000 create a room failed
+2017-12-02 22:55:48 AdminClient WSTA2000 create a room failed
+2017-12-02 22:55:48 StudentClient WSTS1000 log in
+2017-12-04 17:35:32 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 7:30-9:30
+2017-12-04 17:35:32 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 10:00-12:30
+2017-12-04 17:35:32 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 13:30-16:00
+2017-12-04 17:35:32 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 17:00-18:00
+2017-12-04 17:35:32 AdminClient WSTA2000 create a room successfully. Room information: 2017-09-18 201 19:00-20:00
+2017-12-04 17:35:32 AdminClient WSTA2000 create a room failed
+2017-12-04 17:35:32 AdminClient WSTA2000 create a room failed
+2017-12-04 17:35:32 AdminClient WSTA2000 create a room failed
+2017-12-04 17:35:32 AdminClient WSTA2000 create a room failed
+2017-12-04 17:35:32 AdminClient WSTA2000 create a room failed
+2017-12-04 17:35:32 StudentClient WSTS1000 log in
+2017-12-04 21:13:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:13:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:13:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:13:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 21:19:30 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:19:30 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:19:30 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:19:30 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 21:23:16 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:23:16 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:23:16 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:23:16 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 21:28:21 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:28:21 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:28:21 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:28:21 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 21:34:59 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:34:59 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:34:59 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:34:59 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 21:37:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:37:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:37:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:37:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 21:42:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:42:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:42:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:42:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 21:50:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:50:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:50:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:50:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 21:51:16 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:51:16 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:51:16 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:51:16 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 21:55:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:55:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:55:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:55:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 21:58:31 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 21:58:31 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 21:58:31 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 21:58:31 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 22:02:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 22:02:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 22:02:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 22:02:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 22:03:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 22:03:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 22:03:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 22:03:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 22:10:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 22:10:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 22:10:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 22:10:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 22:13:15 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 22:13:15 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 22:13:15 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 22:13:15 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 22:13:57 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 22:13:57 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 22:13:57 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 22:13:57 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 22:18:13 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 22:18:13 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 22:18:13 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 22:18:13 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-04 22:20:39 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-04 22:20:39 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 9:30-11:30
+2017-12-04 22:20:39 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 11:30-13:30
+2017-12-04 22:20:39 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-15:30
+2017-12-07 10:59:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 10:59:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 10:59:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 10:59:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 10:59:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 10:59:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 10:59:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 10:59:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 10:59:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 10:59:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-07 11:10:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 11:10:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 11:10:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 11:10:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 11:10:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 11:10:57 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 11:10:57 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 11:10:57 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 11:10:57 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 11:10:57 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-07 11:21:37 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 11:21:37 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 11:21:37 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 11:21:37 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 11:21:37 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 11:21:39 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 11:21:39 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 11:21:39 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 11:21:39 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 11:21:39 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-07 22:57:25 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 22:57:25 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 22:57:25 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 22:57:25 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 22:57:25 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 22:57:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 22:57:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 22:57:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 22:57:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 22:57:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-07 23:10:00 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 23:10:00 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 23:10:00 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 23:10:00 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 23:10:00 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 23:10:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 23:10:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 23:10:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 23:10:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 23:10:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-07 23:11:58 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 23:11:58 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 23:11:58 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 23:11:58 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 23:11:58 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 23:11:59 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 23:11:59 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 23:11:59 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 23:11:59 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 23:11:59 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-07 23:44:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 23:44:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 23:44:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 23:44:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 23:44:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 23:44:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 23:44:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 23:44:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 23:44:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 23:44:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-07 23:50:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 23:50:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 23:50:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 23:50:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 23:50:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 23:50:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 23:50:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 23:50:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 23:50:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 23:50:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-07 23:52:36 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 23:52:36 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 23:52:36 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 23:52:36 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 23:52:36 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 23:52:37 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 23:52:37 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 23:52:37 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 23:52:37 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 23:52:37 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-07 23:56:33 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 23:56:33 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 23:56:33 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 23:56:33 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 23:56:33 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 23:56:34 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 23:56:34 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 23:56:34 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 23:56:34 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 23:56:34 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-07 23:58:19 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-07 23:58:19 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-07 23:58:19 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-07 23:58:19 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-07 23:58:19 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-07 23:58:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-07 23:58:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-07 23:58:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-07 23:58:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-07 23:58:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 00:03:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 00:03:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 00:03:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 00:03:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 00:03:04 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 00:03:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 00:03:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 00:03:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 00:03:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 00:03:05 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 00:03:33 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:03:33 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:03:35 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:03:42 StudentClient WSTS1000 log in
+2017-12-08 00:03:47 AdminClient WSTA1000 create a room failed
+2017-12-08 00:03:47 AdminClient WSTA1000 create a room failed
+2017-12-08 00:03:47 AdminClient WSTA1000 create a room failed
+2017-12-08 00:03:47 AdminClient WSTA1000 create a room failed
+2017-12-08 00:03:47 AdminClient WSTA1000 create a room failed
+2017-12-08 00:03:48 AdminClient WSTA1000 create a room failed
+2017-12-08 00:03:48 AdminClient WSTA1000 create a room failed
+2017-12-08 00:03:48 AdminClient WSTA1000 create a room failed
+2017-12-08 00:03:48 AdminClient WSTA1000 create a room failed
+2017-12-08 00:03:48 AdminClient WSTA1000 create a room failed
+2017-12-08 00:03:48 StudentClient WSTS1000 log in
+2017-12-08 00:03:48 StudentClient WSTS1000 book a room successfully.Booking information: DVL 2017-10-01 201 7:30-9:30 DVL96877WSTS1000
+2017-12-08 00:03:50 StudentClient WSTS1000 log in
+2017-12-08 00:03:50 StudentClient WSTS1000 book a room successfully.Booking information: DVL 2017-10-01 201 10:00-12:30 DVL96607WSTS1000
+2017-12-08 00:07:54 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 00:07:54 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 00:07:54 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 00:07:54 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 00:07:54 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 00:07:54 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 00:07:54 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 00:07:54 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 00:07:54 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 00:07:54 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 00:22:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 00:22:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 00:22:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 00:22:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 00:22:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 00:22:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 00:22:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 00:22:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 00:22:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 00:22:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 00:27:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 00:27:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 00:27:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 00:27:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 00:27:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 00:27:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 00:27:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 00:27:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 00:27:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 00:27:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 00:28:42 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:28:43 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:28:43 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:35:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 00:35:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 00:35:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 00:35:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 00:35:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 00:35:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 00:35:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 00:35:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 00:35:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 00:35:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 00:36:03 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:36:05 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:36:06 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:36:22 StudentClient WSTS1000 log in
+2017-12-08 00:42:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 00:42:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 00:42:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 00:42:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 00:42:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 00:42:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 00:42:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 00:42:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 00:42:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 00:42:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 00:50:18 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 00:50:18 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 00:50:18 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 00:50:18 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 00:50:18 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 00:50:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 00:50:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 00:50:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 00:50:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 00:50:20 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 00:51:12 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:51:13 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:51:15 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 00:51:29 StudentClient WSTS1000 log in
+2017-12-08 00:57:44 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 00:57:44 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 00:57:44 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 00:57:44 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 00:57:44 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 00:57:45 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 00:57:45 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 00:57:45 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 00:57:45 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 00:57:45 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 14:55:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 14:55:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 14:55:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 14:55:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 14:55:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 14:55:53 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 14:55:53 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 14:55:53 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 14:55:53 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 14:55:53 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 14:58:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 14:58:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 14:58:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 14:58:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 14:58:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 14:58:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 14:58:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 14:58:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 14:58:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 14:58:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 14:58:27 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 14:58:27 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 14:58:27 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 14:58:28 StudentClient WSTS1000 log in
+2017-12-08 15:02:48 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 15:02:48 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 15:02:48 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 15:02:48 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 15:02:48 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 15:02:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 15:02:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 15:02:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 15:02:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 15:02:50 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 15:02:55 StudentClient WSTS1000 log in
+2017-12-08 15:02:55StudentClient WSTS1000 book a room failed
+2017-12-08 15:02:56 StudentClient WSTS1000 log in
+2017-12-08 15:02:56StudentClient WSTS1000 book a room failed
+2017-12-08 15:02:58 StudentClient WSTS1000 log in
+2017-12-08 15:02:58StudentClient WSTS1000 book a room failed
+2017-12-08 15:03:00 StudentClient WSTS1000 log in
+2017-12-08 15:03:00StudentClient WSTS1000 book a room failed
+2017-12-08 15:03:01 StudentClient WSTS1000 log in
+2017-12-08 15:03:01 StudentClient WSTS1000 book a room successfully.Booking information: DVL 2017-11-01 201 19:00-20:00 DVL96607WSTS1000
+2017-12-08 15:03:02 StudentClient WSTS1000 log in
+2017-12-08 15:03:02 StudentClient WSTS1000 book a room successfully.Booking information: KKL 2017-11-02 201 7:30-9:30 KKL10233WSTS1000
+2017-12-08 15:03:04 StudentClient WSTS1000 log in
+2017-12-08 15:03:04StudentClient WSTS1000 book a room failed
+2017-12-08 15:03:06 StudentClient WSTS1000 log in
+2017-12-08 15:03:06StudentClient WSTS1000 book a room failed
+2017-12-08 15:03:07 StudentClient WSTS1000 log in
+2017-12-08 15:03:07 StudentClient WSTS1000 book a room successfully.Booking information: KKL 2017-11-02 201 17:00-18:00 KKL96877WSTS1000
+2017-12-08 15:03:09 StudentClient WSTS1000 log in
+2017-12-08 15:03:10 StudentClient WSTS1000 log in
+2017-12-08 15:05:01 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 15:05:01 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 15:05:01 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 15:05:01 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 15:05:01 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 15:05:01 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 15:05:01 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 15:05:01 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 15:05:01 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 15:05:01 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 15:05:04 StudentClient WSTS1000 log in
+2017-12-08 15:05:04StudentClient WSTS1000 book a room failed
+2017-12-08 15:05:06 StudentClient WSTS1000 log in
+2017-12-08 15:05:06StudentClient WSTS1000 book a room failed
+2017-12-08 15:14:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 15:14:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 15:14:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 15:14:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 15:14:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 15:14:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 15:14:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 15:14:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 15:14:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 15:14:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 15:14:12 StudentClient WSTS1000 log in
+2017-12-08 15:14:12StudentClient WSTS1000 book a room failed
+2017-12-08 15:14:14 StudentClient WSTS1000 log in
+2017-12-08 15:14:14StudentClient WSTS1000 book a room failed
+2017-12-08 15:17:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 15:17:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 15:17:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 15:17:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 15:17:40 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 15:17:42 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 15:17:42 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 15:17:42 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 15:17:42 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 15:17:42 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 15:17:47 StudentClient WSTS1000 log in
+2017-12-08 15:17:47StudentClient WSTS1000 book a room failed
+2017-12-08 15:17:48 StudentClient WSTS1000 log in
+2017-12-08 15:17:48StudentClient WSTS1000 book a room failed
+2017-12-08 15:25:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 15:25:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 15:25:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 15:25:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 15:25:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 15:25:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 15:25:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 15:25:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 15:25:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 15:25:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 15:25:28 StudentClient WSTS1000 log in
+2017-12-08 15:25:28StudentClient WSTS1000 book a room failed
+2017-12-08 15:25:28 StudentClient WSTS1001 log in
+2017-12-08 15:25:28StudentClient WSTS1001 book a room failed
+2017-12-08 15:25:28 StudentClient WSTS1002 log in
+2017-12-08 15:25:28StudentClient WSTS1002 book a room failed
+2017-12-08 15:27:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 15:27:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 15:27:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 15:27:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 15:27:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 15:27:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 15:27:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 15:27:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 15:27:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 15:27:14 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 15:27:15 StudentClient WSTS1000 log in
+2017-12-08 15:27:15StudentClient WSTS1000 book a room failed
+2017-12-08 15:27:15 StudentClient WSTS1001 log in
+2017-12-08 15:27:15StudentClient WSTS1001 book a room failed
+2017-12-08 15:27:15 StudentClient WSTS1002 log in
+2017-12-08 15:27:15StudentClient WSTS1002 book a room failed
+2017-12-08 15:33:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 15:33:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 15:33:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 15:33:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 15:33:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 15:33:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 15:33:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 15:33:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 15:33:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 15:33:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 15:33:10 StudentClient WSTS1000 log in
+2017-12-08 15:33:10StudentClient WSTS1000 book a room failed
+2017-12-08 15:33:10 StudentClient WSTS1001 log in
+2017-12-08 15:33:10StudentClient WSTS1001 book a room failed
+2017-12-08 15:33:10 StudentClient WSTS1002 log in
+2017-12-08 15:33:10StudentClient WSTS1002 book a room failed
+2017-12-08 15:33:10 StudentClient WSTS1003 log in
+2017-12-08 15:33:10StudentClient WSTS1003 book a room failed
+2017-12-08 15:33:10 StudentClient WSTS1004 log in
+2017-12-08 15:33:10StudentClient WSTS1004 book a room failed
+2017-12-08 15:33:10 StudentClient WSTS1005 log in
+2017-12-08 15:33:10StudentClient WSTS1005 book a room failed
+2017-12-08 15:33:10 StudentClient WSTS1006 log in
+2017-12-08 15:33:10StudentClient WSTS1006 book a room failed
+2017-12-08 15:33:10 StudentClient WSTS1007 log in
+2017-12-08 15:33:10StudentClient WSTS1007 book a room failed
+2017-12-08 15:33:10 StudentClient WSTS1008 log in
+2017-12-08 15:33:10StudentClient WSTS1008 book a room failed
+2017-12-08 15:33:10 StudentClient WSTS1009 log in
+2017-12-08 15:33:10StudentClient WSTS1009 book a room failed
+2017-12-08 15:48:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 15:48:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 15:48:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 15:48:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 15:48:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 15:48:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 15:48:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 15:48:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 15:48:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 15:48:03 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 15:48:03 StudentClient WSTS1000 log in
+2017-12-08 15:48:03StudentClient WSTS1000 book a room failed
+2017-12-08 15:48:04 StudentClient WSTS1001 log in
+2017-12-08 15:48:04StudentClient WSTS1001 book a room failed
+2017-12-08 15:48:04 StudentClient WSTS1002 log in
+2017-12-08 15:48:04StudentClient WSTS1002 book a room failed
+2017-12-08 15:48:04 StudentClient WSTS1003 log in
+2017-12-08 15:48:04StudentClient WSTS1003 book a room failed
+2017-12-08 15:48:04 StudentClient WSTS1004 log in
+2017-12-08 15:48:04StudentClient WSTS1004 book a room failed
+2017-12-08 15:48:04 StudentClient WSTS1005 log in
+2017-12-08 15:48:04StudentClient WSTS1005 book a room failed
+2017-12-08 15:48:04 StudentClient WSTS1006 log in
+2017-12-08 15:48:04StudentClient WSTS1006 book a room failed
+2017-12-08 15:48:04 StudentClient WSTS1007 log in
+2017-12-08 15:48:04StudentClient WSTS1007 book a room failed
+2017-12-08 15:48:04 StudentClient WSTS1008 log in
+2017-12-08 15:48:04StudentClient WSTS1008 book a room failed
+2017-12-08 15:48:04 StudentClient WSTS1009 log in
+2017-12-08 15:48:04StudentClient WSTS1009 book a room failed
+2017-12-08 15:55:15 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 15:55:15 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 15:55:15 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 15:55:15 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 15:55:15 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 15:55:17 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 15:55:17 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 15:55:17 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 15:55:17 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 15:55:17 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 15:58:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 15:58:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 15:58:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 15:58:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 15:58:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 15:58:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 15:58:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 15:58:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 15:58:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 15:58:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 16:07:49 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 16:07:49 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 16:07:49 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 16:07:49 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 16:07:49 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 16:07:49 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 16:07:49 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 16:07:49 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 16:07:49 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 16:07:49 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 16:12:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 16:12:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 16:12:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 16:12:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 16:12:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 16:12:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 16:12:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 16:12:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 16:12:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 16:12:09 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 16:24:28 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 7:30-9:30
+2017-12-08 16:24:28 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 10:00-12:30
+2017-12-08 16:24:28 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 13:30-16:00
+2017-12-08 16:24:28 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 17:00-18:00
+2017-12-08 16:24:28 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-01 201 19:00-20:00
+2017-12-08 16:24:28 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 7:30-9:30
+2017-12-08 16:24:28 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 10:00-12:30
+2017-12-08 16:24:28 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 13:30-16:00
+2017-12-08 16:24:28 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 17:00-18:00
+2017-12-08 16:24:28 AdminClient WSTA1000 create a room successfully. Room information: 2017-11-02 201 19:00-20:00
+2017-12-08 17:08:44 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 17:08:44 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 17:08:44 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 17:08:44 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 17:08:44 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 17:08:45 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 17:08:45 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 17:08:45 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 17:08:45 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 17:08:45 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 17:08:53 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 17:08:54 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 17:08:54 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 17:08:56 StudentClient WSTS1000 log in
+2017-12-08 20:20:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 20:20:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 20:20:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 20:20:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 20:20:26 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 20:20:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 20:20:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 20:20:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 20:20:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 20:20:27 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 20:21:06 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 20:21:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 20:21:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 20:21:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 20:21:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 20:21:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 20:21:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 20:21:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 20:21:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 20:21:07 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
+2017-12-08 20:21:23 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 20:21:24 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 20:21:25 StudentClient WSTS1000 cancelBooking failed
+2017-12-08 20:21:33 StudentClient WSTS1000 log in
+2017-12-08 20:28:51 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 7:30-9:30
+2017-12-08 20:28:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 10:00-12:30
+2017-12-08 20:28:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 13:30-16:00
+2017-12-08 20:28:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 17:00-18:00
+2017-12-08 20:28:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-01 201 19:00-20:00
+2017-12-08 20:28:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 7:30-9:30
+2017-12-08 20:28:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 10:00-12:30
+2017-12-08 20:28:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 13:30-16:00
+2017-12-08 20:28:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 17:00-18:00
+2017-12-08 20:28:52 AdminClient WSTA1000 create a room successfully. Room information: 2017-10-02 201 19:00-20:00
